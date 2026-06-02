@@ -1,0 +1,2 @@
+A security assessment was conducted on a vulnerable lab environment. Multiple critical and high-risk vulnerabilities were identified including SQL Injection, Cross-Site Scripting, and outdated FTP services. These issues could allow attackers to access sensitive data, execute commands remotely, and compromise system integrity if deployed in production.
+

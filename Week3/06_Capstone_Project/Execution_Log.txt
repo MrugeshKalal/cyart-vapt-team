@@ -1,0 +1,11 @@
+CAPSTONE VAPT EXECUTION FLOW
+
+1. Reconnaissance performed using Nmap
+2. Identified open services and versions
+3. Detected vulnerable FTP, HTTP, SMB services
+4. Exploitation performed using Metasploit modules
+5. Web application testing done using DVWA
+6. SQL Injection and XSS vulnerabilities confirmed
+7. Traffic interception performed using Burp Suite
+8. Evidence collected and documented
+

@@ -1,0 +1,1 @@
+Performed SQL Injection testing on DVWA using a basic authentication bypass payload (' OR 1=1#). The vulnerability allowed extraction of multiple user records from the database without valid credentials. This confirms improper input validation and lack of query parameterization, leading to critical data exposure risk.
